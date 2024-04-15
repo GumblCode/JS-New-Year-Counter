@@ -1,4 +1,7 @@
-
+@font-face {
+	font-family: "Ink Free";
+	src: local("Ink Free"), url(./font/Inkfree.ttf);
+}
 
 * {
 	box-sizing: border-box;
